@@ -121,19 +121,19 @@ One of the biggest improvements during development was refactoring the original 
 
 ### Starting Screen
 
-![Start](images/start.png)
+images/start.png
 
 ### Playing
 
-![Gameplay](images/playing.png)
+images/playing.png
 
 ### lose
 
-![Gameplay](images/lose.png)
+images/lose.png
 
 ### Victory
 
-![Win](images/win.png)
+images/win.png
 
 ---
 
@@ -142,10 +142,10 @@ One of the biggest improvements during development was refactoring the original 
 Yusuf Ahmed
 
 LinkedIn:
-[(Add your LinkedIn profile)](https://www.linkedin.com/in/yusufaldoori6/)
+https://www.linkedin.com/in/yusufaldoori6/
 
 GitHub:
-[(Add your GitHub profile)](https://github.com/YousifIraq)
+https://github.com/YousifIraq
 
 ---
 
