@@ -121,19 +121,19 @@ One of the biggest improvements during development was refactoring the original 
 
 ### Starting Screen
 
-images/start.png
+![Starting Screen](images/start.PNG)
 
 ### Playing
 
-images/playing.png
+![Playing](images/playing.PNG)
 
 ### lose
 
-images/lose.png
+![Lose](images/lose.PNG)
 
 ### Victory
 
-images/win.png
+![Victory](images/win.PNG)
 
 ---
 
