@@ -33,17 +33,14 @@ This project focuses on designing a game using clean class structures, game logi
 ## Project Structure
 
 ```
-project/
+python-terminal-adventure-game/
 │
-├── main.py
-├── player.py
-├── enemy.py
-├── collision_manager.py
-├── map.py
-├── ...
+├── python-terminal-adventure-game.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── images/
 ```
-
-*(File names may vary depending on your implementation.)*
 
 ---
 
@@ -52,13 +49,13 @@ project/
 1. Clone the repository
 
 ```
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/YousifIraq/python-terminal-adventure-game.git
 ```
 
 2. Navigate into the project
 
 ```
-cd YourRepository
+cd python-terminal-adventure-game
 ```
 
 3. Install the required package
@@ -70,7 +67,7 @@ pip install numpy
 4. Run the game
 
 ```
-python main.py
+python-terminal-adventure-game.py
 ```
 
 ---
@@ -122,30 +119,6 @@ One of the biggest improvements during development was refactoring the original 
 
 ## Screenshots
 
-(Add screenshots or GIFs here)
-
-Example:
-
-![Gameplay](images/gameplay.gif)
-
----
-
-## Author
-
-Yusuf Ahmed
-
-LinkedIn:
-(Add your LinkedIn profile)
-
-GitHub:
-(Add your GitHub profile)
-
----
-
-Thank you for checking out my project!
-
-## Gameplay
-
 ### Starting Screen
 
 ![Start](images/start.png)
@@ -154,7 +127,25 @@ Thank you for checking out my project!
 
 ![Gameplay](images/playing.png)
 
+### lose
+
+![Gameplay](images/lose.png)
+
 ### Victory
 
 ![Win](images/win.png)
+
+---
+
+## Author
+
+Yusuf Ahmed
+
+LinkedIn:
+[(Add your LinkedIn profile)](https://www.linkedin.com/in/yusufaldoori6/)
+
+GitHub:
+[(Add your GitHub profile)](https://github.com/YousifIraq)
+
+---
 
