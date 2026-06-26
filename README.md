@@ -61,13 +61,14 @@ cd python-terminal-adventure-game
 3. Install the required package
 
 ```
-pip install numpy
+pip install -r requirements.txt
+
 ```
 
 4. Run the game
 
 ```
-python-terminal-adventure-game.py
+python python-terminal-adventure-game.py
 ```
 
 ---
